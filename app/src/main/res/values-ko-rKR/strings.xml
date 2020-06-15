@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">테스트11</string>
+    <string name="MainText">안녕하세요</string>
+    <string name="MainText2">일일일</string>
+    <string name="BT_01">버튼</string>
+</resources>

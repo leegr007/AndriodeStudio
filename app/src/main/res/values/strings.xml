@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">Test11</string>
+    <string name="MainText">Hello</string>
+    <string name="MainText2">111111</string>
+    <string name="BT_01">Button</string>
 </resources>
